@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/23dbfb9b-6c76-43d5-bca8-2130621be067/AppServices/subscriptions/23dbfb9b-6c76-43d5-bca8-2130621be067/resourceGroups/CertusDataBase/providers/Microsoft.Web/sites/cuadros",
-    "appService.deploySubpath": "."
-}
