@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/9fa1176c-35c2-4651-84b5-c422a2791cb2/AppServices/subscriptions/9fa1176c-35c2-4651-84b5-c422a2791cb2/resourceGroups/CertusStudens/providers/Microsoft.Web/sites/frontendH93",
-    "appService.deploySubpath": "dist\\sistema-h93"
-}
